@@ -1,0 +1,7 @@
+{
+  "name": "BetMaster Slip Editor",
+  "description": "A high-fidelity betting slip editor that allows users to create, modify, and export professional-looking sports betting tickets. Features AI-powered content generation and realistic template customization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
